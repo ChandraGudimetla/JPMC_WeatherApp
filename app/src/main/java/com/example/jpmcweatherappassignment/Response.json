@@ -1,0 +1,54 @@
+{
+  "coord": {
+    "lon": -80.1937,
+    "lat": 25.7743
+  },
+  "weather": [
+    {
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10d"
+    },
+    {
+      "id": 211,
+      "main": "Thunderstorm",
+      "description": "thunderstorm",
+      "icon": "11d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 26,
+    "feels_like": 26,
+    "temp_min": 26,
+    "temp_max": 26.01,
+    "pressure": 1012,
+    "humidity": 89,
+    "sea_level": 1012,
+    "grnd_level": 1011
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.6,
+    "deg": 90
+  },
+  "rain": {
+    "1h": 0.93
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1726269555,
+  "sys": {
+    "type": 1,
+    "id": 4896,
+    "country": "US",
+    "sunrise": 1726225566,
+    "sunset": 1726270032
+  },
+  "timezone": -14400,
+  "id": 4164138,
+  "name": "Miami",
+  "cod": 200
+}
